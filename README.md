@@ -17,3 +17,6 @@ Welcome to the **Chhaav** movie website repository! This website showcases the m
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/chhaav-movie-website.git
+
+   live website you can see it
+   https://nsanjayboruds.github.io/sambhaji-website/
